@@ -15,3 +15,4 @@ GoFのデザインパターンが現代のプログラミングにふさわし�
     - [Singleton パターン](./singleton.md)
 - Structural
 - Behavioral
+    - [Iterator パターン](./iterator.md) 
