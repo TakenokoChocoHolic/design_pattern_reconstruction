@@ -1,4 +1,17 @@
-design_pattern_reconstruction
+デザインパターンの再構築
 =============================
 
-design_pattern_reconstruction
+まえがき
+--------
+
+GoFのデザインパターンが現代のプログラミングにふさわしくなくなりつつあるため、
+既存のパターンの再確認および新規のパターンを提案する。
+
+
+目次
+------
+
+- Creational
+    - [Singleton パターン](./singleton.md)
+- Structural
+- Behavioral
