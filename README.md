@@ -11,8 +11,19 @@ GoFのデザインパターンが現代のプログラミングにふさわし�
 目次
 ------
 
+### GoF
+
 - Creational
     - [Singleton パターン](./singleton.md)
 - Structural
 - Behavioral
     - [Iterator パターン](./iterator.md) 
+    - [Observer パターン](./observer.md)
+
+### それ以外
+
+- [Loan パターン](./loan.md)
+- [Future パターン](./future.md)
+
+
+
